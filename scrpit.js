@@ -32,5 +32,5 @@ console.log(typeof e); //object
 const ac = 2
 
 ac = 5
-console.log(ac);// errr
+console.log(ac); // errr
 
